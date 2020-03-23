@@ -1,0 +1,12 @@
+C:\Users\i.kurbakov\Desktop\Asteroid\Asteroid\obj\Debug\Asteroid.csprojAssemblyReference.cache
+C:\Users\i.kurbakov\Desktop\Asteroid\Asteroid\obj\Debug\Asteroid.csproj.CoreCompileInputs.cache
+C:\Users\i.kurbakov\Desktop\Asteroid\Asteroid\bin\Debug\Asteroid.exe.config
+C:\Users\i.kurbakov\Desktop\Asteroid\Asteroid\bin\Debug\Asteroid.exe
+C:\Users\i.kurbakov\Desktop\Asteroid\Asteroid\bin\Debug\Asteroid.pdb
+C:\Users\i.kurbakov\Desktop\Asteroid\Asteroid\obj\Debug\Asteroid.exe
+C:\Users\i.kurbakov\Desktop\Asteroid\Asteroid\obj\Debug\Asteroid.pdb
+C:\Users\i.kurbakov\Desktop\Asteroid\Asteroid\bin\Debug\images\fon.jpg
+C:\Users\i.kurbakov\Desktop\Asteroid\Asteroid\bin\Debug\images\ship.png
+C:\Users\i.kurbakov\Desktop\Asteroid\Asteroid\bin\Debug\images\star.png
+C:\Users\i.kurbakov\Desktop\Asteroid\Asteroid\bin\Debug\images\mars.png
+C:\Users\i.kurbakov\Desktop\Asteroid\Asteroid\bin\Debug\images\hotpng.png
